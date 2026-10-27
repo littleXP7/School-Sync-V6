@@ -23,4 +23,4 @@ TickTick tab modes: Tasks (with High/Medium/Low priority filters, group by date 
 - Pictures and scanned PDFs need a Gemini key (Groq reads the text of normal PDFs).
 - Run `npm install` again once (a new package, pdf-parse, was added).
 - (EXE)
-- An app of it in the releases
+- An app of V6 in the releases
