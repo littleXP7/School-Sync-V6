@@ -24,4 +24,5 @@ TickTick tab modes: Tasks (with High/Medium/Low priority filters, group by date 
 - Run `npm install` again once (a new package, pdf-parse, was added).
 - (EXE)
 - An app of V6 in the releases
-  f you need more details open the step by step guid PDF
+  if you need more details open the step by SETUP GUIDE PDF
+You can install the EXE file in the releases
