@@ -1,5 +1,5 @@
 # School Sync
-1. Install Node.js 18+ (nodejs.org)
+1. Install Node.js LTS 18+ (nodejs.org) , GIT (git-scm.com)
 2. In this folder: `npm install` then `npm start`
 3. Scan the WhatsApp QR, pick the group, type the PDF name, paste your free Groq key (console.groq.com/keys) - Gemini key is an optional backup
 4. Connect TickTick (developer.ticktick.com -> New app, redirect URL http://localhost:8765/callback)
