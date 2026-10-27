@@ -22,3 +22,5 @@ TickTick tab modes: Tasks (with High/Medium/Low priority filters, group by date 
 - If one provider is busy, out of free quota, or does not answer within 15 seconds, the next one is used automatically.
 - Pictures and scanned PDFs need a Gemini key (Groq reads the text of normal PDFs).
 - Run `npm install` again once (a new package, pdf-parse, was added).
+- (EXE)
+- An app of it in the releases
